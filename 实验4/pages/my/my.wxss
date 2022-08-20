@@ -1,0 +1,19 @@
+#mylogin{
+  background-color: #328EEB;
+  height:400rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#myicon{
+  width: 200rpx;
+  height:200rpx;
+  border-radius: 50%;
+}
+#nickname{
+  color:white;
+}
+#myfavorites{
+  padding:20rpx;
+}
